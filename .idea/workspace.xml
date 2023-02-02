@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7308bb7-8133-4d53-afa8-a8a730997d25" name="Changes" comment="uptade github" />
+    <list default="true" id="a7308bb7-8133-4d53-afa8-a8a730997d25" name="Changes" comment="uptade github">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educpro-backup-hostiger.sql" beforeDir="false" afterPath="$PROJECT_DIR$/educpro-backup-hostiger.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,18 +26,22 @@
         <entry key="$PROJECT_DIR$/application/libraries/razorpay-php" value="new_update" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/application/libraries/razorpay-php" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22xTDDvTpozL1tECisYurS8Ce5M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -92,7 +99,7 @@
       <workItem from="1662641899531" duration="248000" />
       <workItem from="1675345459978" duration="2242000" />
       <workItem from="1675348456792" duration="728000" />
-      <workItem from="1675372571849" duration="973000" />
+      <workItem from="1675372571849" duration="2661000" />
     </task>
     <task id="LOCAL-00001" summary="uptade github">
       <created>1675346304275</created>
@@ -120,6 +127,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="uptade github" />
     <MESSAGE value="captain definition" />
     <option name="LAST_COMMIT_MESSAGE" value="captain definition" />
