@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7308bb7-8133-4d53-afa8-a8a730997d25" name="Changes" comment="uptade github">
-      <change afterPath="$PROJECT_DIR$/.deploy/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.deploy/config/Caddyfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.deploy/config/crontab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.deploy/config/php/local.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.deploy/config/supervisor.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.deploy/entrypoint.sh" afterDir="false" />
+    <list default="true" id="a7308bb7-8133-4d53-afa8-a8a730997d25" name="Changes" comment="docker file update">
+      <change beforePath="$PROJECT_DIR$/.deploy/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +101,7 @@
       <workItem from="1675348456792" duration="728000" />
       <workItem from="1675372571849" duration="2661000" />
       <workItem from="1675375424439" duration="878000" />
-      <workItem from="1675376341742" duration="1993000" />
+      <workItem from="1675376341742" duration="2498000" />
     </task>
     <task id="LOCAL-00001" summary="uptade github">
       <created>1675346304275</created>
@@ -136,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675377956651</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="docker file update">
+      <created>1675428136992</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675428136992</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +160,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="captain definition" />
     <MESSAGE value="uptade github" />
-    <option name="LAST_COMMIT_MESSAGE" value="uptade github" />
+    <MESSAGE value="docker file update" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker file update" />
   </component>
 </project>
