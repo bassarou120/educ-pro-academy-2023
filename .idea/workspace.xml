@@ -3,28 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a7308bb7-8133-4d53-afa8-a8a730997d25" name="Changes" comment="docker file update codeignter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/2b845803538cc162d9b9da992219dfda.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/2f899c30016a1faf674cdf947c78f532.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/301ac70df65f0b8d76a495e243a81fce.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/305d70860ae7c4be86b1bb6f04d1b681.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/3789f7610d6371078a11eab61f0062b4.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/4d3fab1a19bf309519764a78f0c24438.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/5493f3cc470811996b6a1148e9747c5c.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/564db1f4826dd4e38702a5a07079b884.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/5b0aee10135c4521c16e512d937f8532.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/5f1839cf78f27a45b3326a391a5ba6b2.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/6ddd5ce8c5faeab3152a49b5dbc6314a.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/840e70f9716ee1e02d9296c329aa0551.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/84301eda43bfff799e406822a4ae3a90.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/9fe58ff8ac5e2f11fa0720882f3b7a9b.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/aadaa69cf64c9f6d1dd86443453d35ac.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/bca7d7accd6279e2205f61d833c6ea7c.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/bf5727d8195a272f595e36c6d20b3200.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/d69f5cbcdde246036c3c8ad888bca788.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/d8d47289ee1ff3f950dbddfeada92c2b.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/e5dee1a55bc685fa0d5acab9d4476e0b.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/f5980ca42473de82ad81bf978c0d3f2f.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/lesson_files/videos/f9f73dce78b0f4d1de6fd6ce2f596f23.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/database.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +108,7 @@
       <workItem from="1675372571849" duration="2661000" />
       <workItem from="1675375424439" duration="878000" />
       <workItem from="1675376341742" duration="2974000" />
-      <workItem from="1675686195106" duration="3479000" />
+      <workItem from="1675686195106" duration="3721000" />
     </task>
     <task id="LOCAL-00001" summary="uptade github">
       <created>1675346304275</created>
@@ -215,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675716465059</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="docker file update codeignter">
+      <created>1675716979558</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675716979558</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'srv-captain--mysql-db',
+	'hostname' => 'http://srv-captain--mysql-db',
 	'username' => 'root',
 	'password' => 'admin2023',
 	'database' => 'educpro',
