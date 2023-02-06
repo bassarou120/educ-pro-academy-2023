@@ -23,3 +23,6 @@ COPY --from=composer:2 /usr/bin/composer /usr/local/bin/composer
 
 # Set working directory to web files
 WORKDIR /var/www/html
+
+# Start app
+EXPOSE 80

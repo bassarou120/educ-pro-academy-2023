@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7308bb7-8133-4d53-afa8-a8a730997d25" name="Changes" comment="docker file update">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    <list default="true" id="a7308bb7-8133-4d53-afa8-a8a730997d25" name="Changes" comment="docker file update codeignter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/captain-definition" beforeDir="false" afterPath="$PROJECT_DIR$/captain-definition" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,7 @@
       <workItem from="1675372571849" duration="2661000" />
       <workItem from="1675375424439" duration="878000" />
       <workItem from="1675376341742" duration="2974000" />
-      <workItem from="1675686195106" duration="378000" />
+      <workItem from="1675686195106" duration="1166000" />
     </task>
     <task id="LOCAL-00001" summary="uptade github">
       <created>1675346304275</created>
@@ -147,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675428787800</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="docker file update codeignter">
+      <created>1675686602867</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675686602867</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +176,7 @@
     <MESSAGE value="captain definition" />
     <MESSAGE value="uptade github" />
     <MESSAGE value="docker file update" />
-    <option name="LAST_COMMIT_MESSAGE" value="docker file update" />
+    <MESSAGE value="docker file update codeignter" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker file update codeignter" />
   </component>
 </project>
