@@ -13,10 +13,10 @@ RUN docker-php-ext-enable mysqli
 RUN a2enmod headers expires rewrite
 
 # XDEBUG
-RUN pecl install xdebug
-RUN docker-php-ext-enable xdebug
-# This needs in order to run xdebug from VSCode
-ENV PHP_IDE_CONFIG 'serverName=DockerApp'
+#RUN pecl install xdebug
+#RUN docker-php-ext-enable xdebug
+## This needs in order to run xdebug from VSCode
+#ENV PHP_IDE_CONFIG 'serverName=DockerApp'
 
 # Install Composer
 COPY --from=composer:2 /usr/bin/composer /usr/local/bin/composer
